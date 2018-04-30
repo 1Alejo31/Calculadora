@@ -1,0 +1,47 @@
+var i = 0;
+
+for(i=0;i=n;i++)
+{
+    document.getElementById("display")
+}
+
+function mostrar()
+{
+ document.getElementById("display").innerHTML   
+}
+function mostrar1()
+{
+    document.getElementById("display").innerHTML = 1;
+}
+function mostrar2()
+{
+    document.getElementById("display").innerHTML = 2;
+}
+function mostrar3()
+{
+    document.getElementById("display").innerHTML = 3;
+}
+function mostrar4()
+{
+    document.getElementById("display").innerHTML = 4;
+}
+function mostrar5()
+{
+    document.getElementById("display").innerHTML = 5;
+}
+function mostrar6()
+{
+    document.getElementById("display").innerHTML = 6;
+}
+function mostrar7()
+{
+    document.getElementById("display").innerHTML = 7;
+}
+function mostrar8()
+{
+    document.getElementById("display").innerHTML = 8;
+}
+function mostrar9()
+{
+    document.getElementById("display").innerHTML = 9;
+}
